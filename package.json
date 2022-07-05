@@ -4,9 +4,13 @@
   "description": "This is a test directory to learn Git and Clone",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "start":"npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite":"lite-server"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> ccd9f6a81ecc1400fae6240ee5f16e7568e6648f
   },
   "repository": {
     "type": "git",
